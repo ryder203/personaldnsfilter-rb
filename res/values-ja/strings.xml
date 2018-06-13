@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNSフィルタ</string>
+  <string name="startBtnLabel">再スタート</string>
+  <string name="stopBtnLabel">閉じる</string>
+  <string name="filterReloadBtnLabel">リロードフィルタ</string>
+  <string name="EnableConfigCheckBox">詳細設定</string>
+  <string name="editFilterLoadCheckBox">フィルターのアップデートを設定</string>
+  <string name="editAdditionalHostsCheckBox">追加のホストを設定</string>
+  <string name="keepAwakeCheckBox">省電力機能の解除</string>
+  <string name="EnableAutoStart">自動起動</string>
+  <string name="EnableAdfilter">広告ブロックの適用</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

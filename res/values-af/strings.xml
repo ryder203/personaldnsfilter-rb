@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">HERBEGIN</string>
+  <string name="stopBtnLabel">SLUIT</string>
+  <string name="filterReloadBtnLabel">HERLAAI FILTER</string>
+  <string name="EnableConfigCheckBox">Gevorderde instellings</string>
+  <string name="editFilterLoadCheckBox">Konfigureer filter bywerking</string>
+  <string name="editAdditionalHostsCheckBox">Konfigureer bykomende hosts</string>
+  <string name="keepAwakeCheckBox">Toestel slaap voorkom</string>
+  <string name="EnableAutoStart">Outoloop</string>
+  <string name="EnableAdfilter">Ontsper ad-blokkeer</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">STARTA OM</string>
+  <string name="stopBtnLabel">STÄNG</string>
+  <string name="filterReloadBtnLabel">LADDA OM FILTER</string>
+  <string name="EnableConfigCheckBox">Avancerade inställningar</string>
+  <string name="editFilterLoadCheckBox">Konfigurera filteruppdatering</string>
+  <string name="editAdditionalHostsCheckBox">Konfigurera ytterligare värdar</string>
+  <string name="keepAwakeCheckBox">Förhindra enhets viloläge</string>
+  <string name="EnableAutoStart">Autostart</string>
+  <string name="EnableAdfilter">Aktivera annonsblockering</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

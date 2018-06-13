@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNSфільтр</string>
+  <string name="startBtnLabel">Перезапустити</string>
+  <string name="stopBtnLabel">Закрити</string>
+  <string name="filterReloadBtnLabel">Перезавантажити фільтр</string>
+  <string name="EnableConfigCheckBox">Додаткові налаштування</string>
+  <string name="editFilterLoadCheckBox">Сформувати оновлення фільтра</string>
+  <string name="editAdditionalHostsCheckBox">Сформувати додаткові хости</string>
+  <string name="keepAwakeCheckBox">Заборонити перехід пристрою в режим сну</string>
+  <string name="EnableAutoStart">Автозапуск</string>
+  <string name="EnableAdfilter">Увімкнути блокування реклами</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

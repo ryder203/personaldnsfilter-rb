@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">Lọc DNS</string>
+  <string name="startBtnLabel">KHỞI ĐỘNG LẠI</string>
+  <string name="stopBtnLabel">ĐÓNG</string>
+  <string name="filterReloadBtnLabel">TẢI LẠI BỘ LỌC</string>
+  <string name="EnableConfigCheckBox">Cài đặt nâng cao</string>
+  <string name="editFilterLoadCheckBox">Thiết lập cập nhật phễu lọc</string>
+  <string name="editAdditionalHostsCheckBox">Thiết lập thêm máy chủ (host)</string>
+  <string name="keepAwakeCheckBox">Ngăn thiết bị ngủ đông</string>
+  <string name="EnableAutoStart">Tự khởi động</string>
+  <string name="EnableAdfilter">Cho phép chặn quảng cáo</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

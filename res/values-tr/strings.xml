@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">YENIDEN BAŞLAT</string>
+  <string name="stopBtnLabel">KAPAT</string>
+  <string name="filterReloadBtnLabel">FILTREYI TEKRAR YÜKLE</string>
+  <string name="EnableConfigCheckBox">Gelişmiş ayarlar</string>
+  <string name="editFilterLoadCheckBox">Filtre güncellemesini yapılandır</string>
+  <string name="editAdditionalHostsCheckBox">Ek ana bilgisayarları yapılandır</string>
+  <string name="keepAwakeCheckBox">Cihazın uykuya geçmesini önle</string>
+  <string name="EnableAutoStart">Otomatik başlatma</string>
+  <string name="EnableAdfilter">Reklam engellemeyi etkinleştir</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">REINICIAR</string>
+  <string name="stopBtnLabel">TANCAR</string>
+  <string name="filterReloadBtnLabel">FILTRE DE RECÀRREGA</string>
+  <string name="EnableConfigCheckBox">Configuració avançada</string>
+  <string name="editFilterLoadCheckBox">Configurar el filtre d\'actualització</string>
+  <string name="editAdditionalHostsCheckBox">Configurar hosts addicionals</string>
+  <string name="keepAwakeCheckBox">Impedir Repòs del Dispositiu</string>
+  <string name="EnableAutoStart">Autoinici</string>
+  <string name="EnableAdfilter">Permetre blocatge d\'anunci</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

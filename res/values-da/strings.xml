@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">GENSTART</string>
+  <string name="stopBtnLabel">LUK</string>
+  <string name="filterReloadBtnLabel">GENINDLÆS FILTER</string>
+  <string name="EnableConfigCheckBox">Avancerede indstillinger</string>
+  <string name="editFilterLoadCheckBox">Konfigurer filteropdatering</string>
+  <string name="editAdditionalHostsCheckBox">Konfigurer yderligere værter</string>
+  <string name="keepAwakeCheckBox">Stop enheden i at gå i dvale</string>
+  <string name="EnableAutoStart">Automatisk start</string>
+  <string name="EnableAdfilter">Aktiver annonceblokering</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">RESTARTOVAT</string>
+  <string name="stopBtnLabel">ZAVŘÍT</string>
+  <string name="filterReloadBtnLabel">OBNOVIT FILTR</string>
+  <string name="EnableConfigCheckBox">Pokročilá nastavení</string>
+  <string name="editFilterLoadCheckBox">Konfigurovat aktualizaci filtru</string>
+  <string name="editAdditionalHostsCheckBox">Konfigurovat další hostitele</string>
+  <string name="keepAwakeCheckBox">Zabránit uspání zařízení</string>
+  <string name="EnableAutoStart">Automatické spuštění</string>
+  <string name="EnableAdfilter">Povolit blokování reklam</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">UUDELLEENKÄYNNISTYS</string>
+  <string name="stopBtnLabel">SULJE</string>
+  <string name="filterReloadBtnLabel">LATAA SUODATIN UUDELLEEN</string>
+  <string name="EnableConfigCheckBox">Lisäasetukset</string>
+  <string name="editFilterLoadCheckBox">Määritä suodattimen päivitys</string>
+  <string name="editAdditionalHostsCheckBox">Määritä lisää isäntiä</string>
+  <string name="keepAwakeCheckBox">Estä laitteen lepotila</string>
+  <string name="EnableAutoStart">Autom. käynnistys</string>
+  <string name="EnableAdfilter">Ota mainostenesto käyttöön</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

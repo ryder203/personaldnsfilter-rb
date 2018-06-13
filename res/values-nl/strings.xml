@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNS-filter</string>
+  <string name="startBtnLabel">HERSTART</string>
+  <string name="stopBtnLabel">SLUITEN</string>
+  <string name="filterReloadBtnLabel">FILTER HERLADEN</string>
+  <string name="EnableConfigCheckBox">Geavanceerde instellingen</string>
+  <string name="editFilterLoadCheckBox">Configureer filter update</string>
+  <string name="editAdditionalHostsCheckBox">Configureer extra hosts </string>
+  <string name="keepAwakeCheckBox">Apparaat blijft actief</string>
+  <string name="EnableAutoStart">Autostart</string>
+  <string name="EnableAdfilter">Advertentieblokkering inschakelen</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

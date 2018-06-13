@@ -1,0 +1,6 @@
+# Add your own additional hosts here!
+# Format: one host name per line (sample below).
+# Host name and all subdomains will be blocked.
+
+justasample.com
+web203.justasample.com

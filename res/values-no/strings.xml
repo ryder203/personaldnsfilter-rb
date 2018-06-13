@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNS-filter</string>
+  <string name="startBtnLabel">OMSTART</string>
+  <string name="stopBtnLabel">LUKK</string>
+  <string name="filterReloadBtnLabel">LAST FILTER PÅ NYTT</string>
+  <string name="EnableConfigCheckBox">Avanserte innstillinger</string>
+  <string name="editFilterLoadCheckBox">Konfigurer filteroppdatering </string>
+  <string name="editAdditionalHostsCheckBox">Konfigurer eksta verter </string>
+  <string name="keepAwakeCheckBox">Forhindre at enheten går i dvale</string>
+  <string name="EnableAutoStart">Autostart</string>
+  <string name="EnableAdfilter">Aktiver annonseblokkering</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

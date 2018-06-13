@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">ДНСфилтер</string>
+  <string name="startBtnLabel">Поновно покретање</string>
+  <string name="stopBtnLabel">Затвори</string>
+  <string name="filterReloadBtnLabel">Пуњење филтера</string>
+  <string name="EnableConfigCheckBox">Напредна подешавања</string>
+  <string name="editFilterLoadCheckBox">Подесите Ажурирање филтера</string>
+  <string name="editAdditionalHostsCheckBox">Подесите додатне домаћини</string>
+  <string name="keepAwakeCheckBox">Спречавање уређај сна</string>
+  <string name="EnableAutoStart">Аутоматско покретање</string>
+  <string name="EnableAdfilter">Омогући блокирање огласа</string>
+  <string name="dnsLabel">ДНС:</string>
+</resources>

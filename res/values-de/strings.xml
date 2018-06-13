@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNSFilter</string>
+  <string name="startBtnLabel">NEU STARTEN</string>
+  <string name="stopBtnLabel">BEENDEN</string>
+  <string name="filterReloadBtnLabel">FILTER AKTUALISIEREN</string>
+  <string name="EnableConfigCheckBox">Erweiterte Einstellungen</string>
+  <string name="editFilterLoadCheckBox">Filter-Update konfigurieren</string>
+  <string name="editAdditionalHostsCheckBox">Zusätzliche Hosts konfigurieren</string>
+  <string name="keepAwakeCheckBox">Schlafmodus des Geräts verhindern</string>
+  <string name="EnableAutoStart">Autostart</string>
+  <string name="EnableAdfilter">Werbeblocker aktivieren</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

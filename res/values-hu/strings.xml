@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">DNS  szűrő</string>
+  <string name="startBtnLabel">ÚJRAINDÍTÁS</string>
+  <string name="stopBtnLabel">BEZÁR</string>
+  <string name="filterReloadBtnLabel">SZŰRŐ VISSZATÖLTÉSE</string>
+  <string name="EnableConfigCheckBox">Haladó beállítások</string>
+  <string name="editFilterLoadCheckBox">Szűrőfrissítés konfigurálása</string>
+  <string name="editAdditionalHostsCheckBox">További gazdák konfigurálása</string>
+  <string name="keepAwakeCheckBox">Az eszköz alvó állapotának megakadályozása</string>
+  <string name="EnableAutoStart">Automatikus indítás</string>
+  <string name="EnableAdfilter">Hirdetés blokkolás bekapcsolása</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>

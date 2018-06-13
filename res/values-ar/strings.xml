@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">عامل تصفية DNS</string>
+  <string name="startBtnLabel">إعادة التشغيل</string>
+  <string name="stopBtnLabel">إغلاق</string>
+  <string name="filterReloadBtnLabel">إعادة تحميل عامل تصفية</string>
+  <string name="EnableConfigCheckBox">الإعدادات المتقدمة</string>
+  <string name="editFilterLoadCheckBox">إعداد تحديث عامل التصفية</string>
+  <string name="editAdditionalHostsCheckBox">تهيئة ملفات المضيف اﻹضافية</string>
+  <string name="keepAwakeCheckBox">منع نوم الجهاز</string>
+  <string name="EnableAutoStart">التشغيل التلقائي</string>
+  <string name="EnableAdfilter">تفعيل حظر الإعلانات</string>
+  <string name="dnsLabel">نظام أسماء النطاقات (DNS):</string>
+</resources>

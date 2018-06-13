@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">personalDNSfilter</string>
+  <string name="startBtnLabel">RESTART</string>
+  <string name="stopBtnLabel">CLOSE</string>
+  <string name="filterReloadBtnLabel">RELOAD FILTER</string>
+  <string name="EnableConfigCheckBox">Advanced settings</string>
+  <string name="editFilterLoadCheckBox">Configure filter update</string>
+  <string name="editAdditionalHostsCheckBox">Configure additional hosts</string>
+  <string name="keepAwakeCheckBox">Prevent device sleep</string>
+  <string name="EnableAutoStart">Autostart</string>
+  <string name="EnableAdfilter">Enable ad-blocking</string>
+  <string name="dnsLabel">DNS:</string>
+</resources>
