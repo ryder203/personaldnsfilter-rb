@@ -1,7 +1,7 @@
 # personaldnsfilter-rb
 personal DNS filter Ryder Build
 
-DISCONTINUED
+**DISCONTINUED**
 
 Based on
 - http://zenz-solutions.de/personaldnsfilter/
